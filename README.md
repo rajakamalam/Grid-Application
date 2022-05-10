@@ -1,4 +1,4 @@
-# BowlingAlley-App
+# Grid-App
 Creating a Grid app
 
 ## Introduction
